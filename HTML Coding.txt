@@ -1,0 +1,4 @@
+HTML 코드
+굵기 표기: <strong> Eggshell </strong>
+밑줄: <u> Eggshell </u>
+새탭에서 뜨게하는 명령어: <a href="https://Eggshell" target=_blank">
